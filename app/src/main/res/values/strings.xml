@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BusHopper</string>
+
+    <!-- Strings related to login -->
+    <string name="User_Name">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This user name is invalid</string>
+    <string name="error_invalid_password">Incorrect Password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="permission_rationale_location">access to the location service is required to demonstrate the \'my location\'feature,which shows your current location on the map</string>
+    <string name="location_permission_denied">this app requires location permission to enable the \'my location\' layer .please try again and grant access to the location </string>
+    <string name="permission_required_toast">location permission is required for this app</string>
+
+    <string name="title_activity_splash_screen">Welcome</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
